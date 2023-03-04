@@ -7,7 +7,7 @@ Remote Administration Tool for Windows
 <br>
 
 
-Supported runtimes and operating systems:
+A. Supported runtimes and operating systems:
 
 <b>
 
@@ -32,3 +32,40 @@ Windows Server 2008
 Windows Vista
 
 </b>
+
+
+B. Features:
+
+TCP network stream (IPv4 & IPv6 support)
+
+Fast network serialization (Protocol Buffers)
+
+Compressed (QuickLZ) & Encrypted (TLS) communication
+
+UPnP Support
+
+Task Manager
+
+File Manager
+
+Startup Manager
+
+Remote Desktop
+
+Remote Shell
+
+Remote Execution
+
+System Information
+
+Registry Editor
+
+System Power Commands (Restart, Shutdown, Standby)
+
+Keylogger (Unicode Support)
+
+Reverse Proxy (SOCKS5)
+
+Password Recovery (Common Browsers and FTP Clients)
+
+and many more!
