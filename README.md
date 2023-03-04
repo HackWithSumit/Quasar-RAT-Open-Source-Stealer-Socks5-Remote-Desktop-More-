@@ -2,7 +2,11 @@
 Quasar RAT – Open Source (Stealer, Socks5, Remote Desktop &amp; More)
 <br>
 Remote Administration Tool for Windows
+
+--------------------------------------------
 <br>
+
+
 Supported runtimes and operating systems:
 
 <b>
